@@ -99,7 +99,7 @@
       },
       "repository": {
         "type": "string",
-        "defaultValue": "https://github.com/btcpayserver/btcpayserver-docker",
+        "defaultValue": "https://github.com/austrocoin/btcpayserver-docker",
         "metadata": {
           "description": "The GIT repository to pull the docker-compose from"
         }
